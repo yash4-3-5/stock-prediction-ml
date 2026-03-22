@@ -14,9 +14,17 @@ A web application that predicts whether a stock's next-day closing price will go
 
 | Name | Role |
 |------|------|
-| **Daksh Chaudhary** | ML Engineer & Backend Developer |
+| **Yash Verma** | ML Engineer & Backend Developer |
 | **Vishu Tarar** | Data Analyst & Researcher |
-| **Yash Verma** | Frontend Developer & Deployment |
+| **Daksh Chaudhary** | Frontend Developer & Deployment |
+
+---
+
+## 🤖 Acknowledgement
+
+This project was developed with the assistance of AI tools such as ChatGPT and Claude for guidance, debugging, and code improvement.
+
+AI was used as a support tool to enhance development efficiency, while the overall project structure, implementation, and understanding were developed through independent effort.
 
 ---
 
