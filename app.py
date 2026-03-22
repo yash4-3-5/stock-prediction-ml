@@ -294,9 +294,9 @@ def main():
 
         st.markdown("### 👨‍💻 Team Members")
         team_members = [
-            {"name": "Daksh Chaudhary", "emoji": "🧑‍💻", "role": "ML & Backend"},
+            {"name": "Yash Verma", "emoji": "🧑‍💻", "role": "ML & Backend"},
             {"name": "Vishu Tarar", "emoji": "👨‍💻", "role": "Data & Analysis"},
-            {"name": "Yash Verma", "emoji": "👨‍🔬", "role": "Frontend & Deploy"}
+            {"name": "Daksh Chaudhary", "emoji": "👨‍🔬", "role": "Frontend & Deploy"}
         ]
         for member in team_members:
             st.markdown(
@@ -312,7 +312,7 @@ def main():
 
         st.markdown("---")
         st.markdown("### 📖 Project Info")
-        st.markdown(f"**Subject:** Machine Learning\n\n**Date:** {datetime.now().strftime('%B %Y')}")
+        st.markdown(f"**Subject:** Mini Project\n\n**Date:** {datetime.now().strftime('%B %Y')}")
 
     # MAIN HEADER
     st.markdown('<div class="main-header">📈 Stock Market Trend Prediction</div>', unsafe_allow_html=True)
