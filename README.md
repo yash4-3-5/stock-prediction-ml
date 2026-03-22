@@ -98,7 +98,7 @@ AI was used as a support tool to enhance development efficiency, while the overa
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/stock-prediction-ml.git
+git clone https://github.com/yash4-3-5/stock-prediction-ml.git
 
 # Go to project folder
 cd stock-prediction-ml
